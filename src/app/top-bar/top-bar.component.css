@@ -1,0 +1,24 @@
+:host {
+    background-color: #19b5fe;
+    padding-left: 50px;
+}
+
+:host {
+    background-color: #19b5fe;
+}
+
+ul {
+    background-color: #19b5fe;
+}
+
+ul li a {
+    color: #ececec;
+    text-transform: uppercase;
+    background-color: #19b5fe;
+}
+
+ul li ul {
+    color: #ececec;
+    background-color: #19b5fe;
+}
+
